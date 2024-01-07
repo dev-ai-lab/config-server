@@ -1,0 +1,11 @@
+build:
+  version: 3
+
+accounts:
+  activeBranches: '[Munich, London, Washington]'
+  mailDetails:
+    from: default-accounts@bank.com
+    hostName: default-accounts@bank.com
+    port: 9000
+    subject: Your Account Details from Bank Default Environment
+  msg: Welcome to the Bank Accounts Default application

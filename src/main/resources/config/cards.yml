@@ -1,0 +1,14 @@
+build:
+  version: 3
+
+cards:
+  activeBranches:
+    - Munich
+    - London
+    - Washington
+  mailDetails:
+    from: default-cards@bank.com
+    hostName: default-cards@bank.com
+    port: 9002
+    subject: Your Card Details from Bank Default Environment
+  msg: Welcome to the Bank Cards Default application

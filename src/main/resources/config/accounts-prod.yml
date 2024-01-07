@@ -1,0 +1,14 @@
+build:
+  version: 1
+
+accounts:
+  activeBranches:
+    - Kehl
+    - Paris
+    - NewYork
+  mailDetails:
+    from: prod-accounts@bank.com
+    hostName: prod-accounts@bank.com
+    port: 9010
+    subject: Your Account Details from Bank Production Environment
+  msg: Welcome to the Bank Accounts Prod application

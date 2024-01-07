@@ -1,0 +1,14 @@
+build:
+  version: 2
+
+loans:
+  activeBranches:
+    - Stuttgart
+    - Berlin
+    - Indianapollis
+  mailDetails:
+    from: dev-loans@bank.com
+    hostName: dev-loans@bank.com
+    port: 9021
+    subject: Your Loan Details from Bank Dev Environment
+  msg: Welcome to the Bank Loans Dev application

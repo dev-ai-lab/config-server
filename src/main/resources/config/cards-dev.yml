@@ -1,0 +1,14 @@
+build:
+  version: 2
+
+cards:
+  activeBranches:
+    - Mannheim
+    - Berlin
+    - Indianapollis
+  mailDetails:
+    from: dev-cards@bank.com
+    hostName: dev-cards@bank.com
+    port: 9022
+    subject: Your Card Details from Bank Dev Environment
+  msg: Welcome to the Bank Cards Dev application

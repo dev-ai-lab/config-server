@@ -1,0 +1,14 @@
+build:
+  version: 3
+
+loans:
+  activeBranches:
+    - Heidelberg
+    - London
+    - Washington
+  mailDetails:
+    from: default-loans@bank.com
+    hostName: default-loans@bank.com
+    port: 9001
+    subject: Your Loan Details from Bank Default Environment
+  msg: Welcome to the Bank Loans Default application

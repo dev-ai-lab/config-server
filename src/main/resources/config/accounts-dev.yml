@@ -1,0 +1,15 @@
+build:
+  version: 2
+
+accounts:
+  activeBranches:
+    - Chennai
+    - Berlin
+    - Indianapollis
+
+  mailDetails:
+    from: dev-accounts@bank.com
+    hostName: dev-accounts@bank.com
+    port: 9020
+    subject: Your Account Details from Bank Dev Environment
+  msg: Welcome to the Bank Accounts Dev application

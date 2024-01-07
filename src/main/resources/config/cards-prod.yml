@@ -1,0 +1,14 @@
+build:
+  version: 1
+
+cards:
+  activeBranches:
+    - Heidelberg
+    - Paris
+    - NewYork
+  mailDetails:
+    from: prod-cards@bank.com
+    hostName: prod-cards@bank.com
+    port: 9012
+    subject: Your Card Details from Bank Production Environment
+  msg: Welcome to the Bank Cards Prod application

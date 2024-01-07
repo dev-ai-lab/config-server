@@ -1,0 +1,14 @@
+build:
+  version: 1
+
+loans:
+  activeBranches:
+    - Stuttgart
+    - Paris
+    - NewYork
+  mailDetails:
+    from: prod-loans@bank.com
+    hostName: prod-loans@bank.com
+    port: 9011
+    subject: Your Loan Details from Bank Production Environment
+  msg: Welcome to the Bank Loans Prod application
